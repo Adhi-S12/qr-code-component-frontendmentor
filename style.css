@@ -31,7 +31,7 @@ img {
 
 .qr-card {
   background-color: #fff;
-  max-width: 300px;
+  max-width: 350px;
   padding: 14px;
   padding-bottom: 40px;
   border-radius: 25px;
@@ -39,7 +39,7 @@ img {
 }
 
 .qr-heading {
-  font-size: 1.25rem;
+  font-size: 24px;
   margin-top: 24px;
   color: #21314b;
   font-weight: 800;
@@ -48,8 +48,8 @@ img {
 
 .qr-text {
   margin-top: 20px;
-  font-size: 13px;
-  color: #c2c4ca;
+  font-size: 15px;
+  color: #9fa0a5;
   width: 85%;
   margin-inline: auto;
   line-height: 1.5;
